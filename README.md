@@ -15,6 +15,6 @@ I enjoy working on web and mobile app development projects
 - Pursue advanced studies and research in Cloud Computing  
 
 ## 🌟 Fun Facts   
-- 💻 Leading projects with **ANAVERS and **Puzzle Research Data Technology**  
+- 💻 Leading projects with **ANAVERS** and **Puzzle Research Data Technology**  
 
 Let's connect and create something amazing together! 😊  
