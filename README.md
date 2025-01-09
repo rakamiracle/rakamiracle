@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Raka!  
 
-<!--
-**rakamiracle/rakamiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about research, development, and design  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🌐 Focus: **Fullstack Development**   
+- 🎨 Skilled in **Web Development**, **UI/UX Design**, ,**ML**    
+- 📘 Current Interest: **AI Development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects  
+I enjoy working on web and mobile app development projects
+
+## 🎯 Goals  
+- Build impactful tech solutions for real-world problems  
+- Pursue advanced studies and research in Cloud Computing  
+
+## 🌟 Fun Facts   
+- 💻 Leading projects with **ANAVERS and **Puzzle Research Data Technology**  
+
+Let's connect and create something amazing together! 😊  
