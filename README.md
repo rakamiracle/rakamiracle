@@ -8,7 +8,7 @@ I'm passionate about research, development, and design
 - 📘 Current Interest: **AI Development**  
 
 ## 💼 Projects  
-I enjoy working on web and mobile app development projects
+I enjoy working on web and Data Science projects
 
 ## 🎯 Goals  
 - Build impactful tech solutions for real-world problems  
