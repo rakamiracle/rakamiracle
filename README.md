@@ -4,7 +4,7 @@ I'm passionate about research, development, and design
 
 ## 🚀 About Me  
 - 🌐 Focus: **Fullstack Development**   
-- 🎨 Skilled in **Web Development**, **UI/UX Design**, ,**data science**    
+- 🎨 Skilled in **Web Development**, **UI/UX Design**, Mobile Development, **data science**    
 - 📘 Current Interest: **AI Development**  
 
 ## 💼 Projects  
