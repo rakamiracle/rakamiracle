@@ -27,8 +27,8 @@ Saya percaya bahwa teknologi bukan hanya soal kode, tapi bagaimana kita bisa mem
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakasabri&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakasabri&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakamiracle&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakamiracle&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p>
 
 ---
