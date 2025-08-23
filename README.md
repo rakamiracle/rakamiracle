@@ -1,52 +1,55 @@
-# 👋 Hi, I'm Raka Sabri  
-
-🚀 **Tech Enthusiast | Fullstack Developer | UI/UX Designer | Cloud Computing Explorer**  
-
-Selamat datang di halaman GitHub saya!  
-Saya seorang mahasiswa Informatika di **UIN Sultan Syarif Kasim Riau** yang sedang mendalami dunia **Fullstack Development, Cloud Computing, dan Artificial Intelligence**.  
-Saya percaya bahwa teknologi bukan hanya soal kode, tapi bagaimana kita bisa membangun solusi nyata yang impactful. 🌍  
-
----
-
-## 💡 About Me
-- 🎓 Informatics Engineering Student  
-- 💻 Currently learning **MERN Stack, Laravel, Next.js, and TypeScript**  
-- ☁️ Cloud Certified: **Oracle Database** & **Alibaba Cloud Developer**  
-- 🎨 Experienced in **UI/UX Design** (3rd place Startup Competition as UI/UX Division)  
-- 🏆 Active in **student self-development communities & tech initiatives**  
-- 📈 Passionate about **building scalable digital solutions & startups**  
-
----
-
-## ⚡ Tech Stack & Tools
+<!-- Banner -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,laravel,nodejs,express,mongodb,mysql,java,python,git,github,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Raka+Sabri+👋;Fullstack+Developer+%7C+Cloud+Explorer+%7C+UI%2FUX+Designer;Transforming+Ideas+into+Digital+Reality+🚀" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me  
+🎓 Informatics Engineering Student @ **UIN Sultan Syarif Kasim Riau**  
+💻 Exploring **MERN, Laravel, Next.js, and TypeScript**  
+☁️ Cloud Certified: **Oracle Database** & **Alibaba Cloud Developer**  
+🎨 UI/UX Designer | 🏆 3rd Place Startup Competition (UI/UX Division)  
+📈 Passionate about **building scalable solutions & digital startups**  
+⚡ Mission: *"Turn visionary ideas into impactful digital reality"*  
+
+---
+
+# ⚡ Tech Arsenal  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakamiracle&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakamiracle&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,laravel,nodejs,express,mongodb,mysql,java,python,git,github,vscode,figma,docker" />
 </p>
 
 ---
 
-## ✨ Featured Projects
-🔹 [**Portfolio Website**](https://github.com/rakasabri/portfolio) – Personal digital portfolio built with modern web tech  
-🔹 [**Library Management System (MERN)**](https://github.com/rakasabri/library-system) – A fullstack project for book management  
-🔹 [**AI Assistant**](#) – Experimenting with building an AI assistant inspired by Google Assistant  
-
----
-
-## 🌐 Connect With Me
+# 📊 GitHub Performance
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakasabri" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/rakasabri" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:rakasabri@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakamiracle&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakamiracle&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakamiracle&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
-⭐️ *“Transforming visionary ideas into real digital solutions.”*  
+# 🚀 Featured Projects
+🔹 [**Portfolio Website**](https://github.com/rakasabri/portfolio) – My personal showcase with modern UI/UX  
+🔹 [**Library Management System (MERN)**](https://github.com/rakasabri/library-system) – Fullstack solution for book management  
+🔹 [**AI Assistant**](#) – Building an AI that speaks and answers like Google Assistant  
+
+---
+
+# 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakasabri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rakasabri" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:rakasabri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ *“Dream Big. Code Hard. Build Impact.”* ⭐
+</p>
