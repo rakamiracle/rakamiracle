@@ -1,20 +1,52 @@
-# 👋 Hi there, I'm Raka!  
+# 👋 Hi, I'm Raka Sabri  
 
-I'm passionate about research, development, and design  
+🚀 **Tech Enthusiast | Fullstack Developer | UI/UX Designer | Cloud Computing Explorer**  
 
-## 🚀 About Me  
-- 🌐 Focus: **Fullstack Development**   
-- 🎨 Skilled in **Web Development**, **UI/UX Design**, Mobile Development, **data science**    
-- 📘 Current Interest: **AI Development**  
+Selamat datang di halaman GitHub saya!  
+Saya seorang mahasiswa Informatika di **UIN Sultan Syarif Kasim Riau** yang sedang mendalami dunia **Fullstack Development, Cloud Computing, dan Artificial Intelligence**.  
+Saya percaya bahwa teknologi bukan hanya soal kode, tapi bagaimana kita bisa membangun solusi nyata yang impactful. 🌍  
 
-## 💼 Projects  
-I enjoy working on web and Data Science projects
+---
 
-## 🎯 Goals  
-- Build impactful tech solutions for real-world problems  
-- Pursue advanced studies and research in Cloud Computing  
+## 💡 About Me
+- 🎓 Informatics Engineering Student  
+- 💻 Currently learning **MERN Stack, Laravel, Next.js, and TypeScript**  
+- ☁️ Cloud Certified: **Oracle Database** & **Alibaba Cloud Developer**  
+- 🎨 Experienced in **UI/UX Design** (3rd place Startup Competition as UI/UX Division)  
+- 🏆 Active in **student self-development communities & tech initiatives**  
+- 📈 Passionate about **building scalable digital solutions & startups**  
 
-## 🌟 Fun Facts   
-- 💻 Leading projects with **ANAVERS** and **Puzzle Research Data Technology**  
+---
 
-Let's connect and create something amazing together! 😊  
+## ⚡ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,laravel,nodejs,express,mongodb,mysql,java,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakasabri&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakasabri&theme=tokyonight" alt="GitHub streak" height="165"/>
+</p>
+
+---
+
+## ✨ Featured Projects
+🔹 [**Portfolio Website**](https://github.com/rakasabri/portfolio) – Personal digital portfolio built with modern web tech  
+🔹 [**Library Management System (MERN)**](https://github.com/rakasabri/library-system) – A fullstack project for book management  
+🔹 [**AI Assistant**](#) – Experimenting with building an AI assistant inspired by Google Assistant  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakasabri" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/rakasabri" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:rakasabri@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐️ *“Transforming visionary ideas into real digital solutions.”*  
