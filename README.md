@@ -15,8 +15,21 @@
 ---
 
 # 🏗️ Fields of Expertise  
-🔹 **Software Engineering (Main Field)**  
-&nbsp;&nbsp;&nbsp;&nbsp;➡️ *Software Development & Software Analyst*  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Main%20Field-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### 💡 Main Field  
+🚀 **Software Engineering**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 *Software Development*  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 *Software Analyst*  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supporting%20Skills-grey?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 🔹 **Supporting Skills**  
 - 📊 **Basic Data Science & Data Analyst** (Pandas, NumPy, Excel, Jupyter)  
