@@ -36,7 +36,7 @@ const rakaSabri = {
 ```
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=💫+Currently+Building+the+Future+💫;⚡+Always+Learning+New+Technologies+⚡;🎯+Focused+on+Creating+Impact+🎯" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=💫+Currently+Building+the+Future+💫;⚡+Always+Learning+New+Technologies+⚡;🎯+Focused+on+Creating+Impact+🎯;🚀+Turning+Coffee+into+Code+🚀;🌟+Making+the+World+Better+with+Code+🌟" />
 </div>
 
 ---
