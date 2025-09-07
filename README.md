@@ -10,14 +10,15 @@
 💻 Exploring **MERN, Laravel, Next.js, and TypeScript**  
 ☁️ Cloud Certified: **Oracle Database** & **Alibaba Cloud Developer**  
 🎨 UI/UX Designer | 🏆 3rd Place Startup Competition (UI/UX Division)  
-📈 Passionate about **building scalable solutions & digital startups**  
-⚡ Mission: *"Turn visionary ideas into impactful digital reality"*  
+📊 Basic Skill in **Data Science & Data Analyst**  
+⚡ Main Focus: **Software Engineering** (Software Development & Software Analyst)  
+🚀 Mission: *"Turn visionary ideas into impactful digital reality"*  
 
 ---
 
 # ⚡ Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,laravel,nodejs,express,mongodb,mysql,java,python,git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,laravel,nodejs,express,mongodb,mysql,java,python,go,git,github,vscode,figma,docker" />
 </p>
 
 ---
