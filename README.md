@@ -10,9 +10,18 @@
 💻 Exploring **MERN, Laravel, Next.js, and TypeScript**  
 ☁️ Cloud Certified: **Oracle Database** & **Alibaba Cloud Developer**  
 🎨 UI/UX Designer | 🏆 3rd Place Startup Competition (UI/UX Division)  
-📊 Basic Skill in **Data Science & Data Analyst**  
-⚡ Main Focus: **Software Engineering** (Software Development & Software Analyst)  
-🚀 Mission: *"Turn visionary ideas into impactful digital reality"*  
+⚡ Mission: *"Turn visionary ideas into impactful digital reality"*  
+
+---
+
+# 🏗️ Fields of Expertise  
+🔹 **Software Engineering (Main Field)**  
+&nbsp;&nbsp;&nbsp;&nbsp;➡️ *Software Development & Software Analyst*  
+
+🔹 **Supporting Skills**  
+- 📊 **Basic Data Science & Data Analyst** (Pandas, NumPy, Excel, Jupyter)  
+- 🎨 **UI/UX Designer** (Figma, Prototyping, User Research)  
+- 💼 **Business Analyst** (Requirement Gathering, System Analysis, Process Design)  
 
 ---
 
