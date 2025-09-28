@@ -21,19 +21,6 @@
 
 ## 🎯 About Me - The Digital Architect
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-```typescript
-const rakaSabri = {
-    location: "Indonesia 🇮🇩",
-    education: "Informatics Engineering @ UIN Sultan Syarif Kasim Riau",
-    currentFocus: ["MERN Stack", "Next.js", "TypeScript", "Go", "Laravel"],
-    certifications: ["Oracle Database", "Alibaba Cloud Developer"],
-    achievements: ["🏆 3rd Place Startup Competition (UI/UX Division)"],
-    mission: "Turn visionary ideas into impactful digital reality",
-    lifePhilosophy: "Dream Big. Code Hard. Build Impact. 🚀"
-};
-```
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=💫+Currently+Building+the+Future+💫;⚡+Always+Learning+New+Technologies+⚡;🎯+Focused+on+Creating+Impact+🎯;🚀+Turning+Coffee+into+Code+🚀;🌟+Making+the+World+Better+with+Code+🌟" />
