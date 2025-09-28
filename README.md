@@ -1,9 +1,9 @@
-# 🌟 Welcome to Raka Sabri's Digital Universe 🌟
+# 🌟 Welcome to Raka Miracle's Digital Universe 🌟
 
 <div align="center">
   
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raka%20Sabri&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raka%20Miracle&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🔥+Fullstack+Developer+%7C+Cloud+Explorer+🔥;🎨+UI%2FUX+Designer+%7C+Software+Engineer+🎨;💡+Business+Analyst+%7C+Data+Explorer+💡;🚀+Transforming+Ideas+into+Digital+Reality+🚀" />
