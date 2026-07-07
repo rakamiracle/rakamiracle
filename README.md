@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=560&lines=Building+scalable+web+%26+mobile+apps;TypeScript+%2F+Swift+%2F+Go;Turning+ideas+into+reliable+products" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakasabri)
+
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rakasabri@gmail.com)
 
 </td>
